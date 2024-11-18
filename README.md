@@ -1,4 +1,4 @@
 # Node Journey
 
-* Bases
+## Bases
 
